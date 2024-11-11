@@ -25,7 +25,7 @@ Stay Tuned!
 ## Resources:
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stéphane Maarek - https://www.udemy.com/share/106WtA3@xAcho7WJx8jBkoErlcamUYzDNaaMhFAUcTpbZy2wYKc_0CEn4CEuQrk-a8fe7LM=/
 
-## X Posts
+## X-Posts
  - Day 1: [Post](https://x.com/harishsun/status/1855304797106119167)
  - Day 2: [Post](https://x.com/harishsun/status/1855717353784299839)
- - Day 3: [Post]
+ - Day 3: [Post](https://x.com/harishsun/status/1856092604338696657)
