@@ -13,6 +13,18 @@ This blog is my logbook, a place where I'll track my journey through the AWS lan
 
 Stay Tuned!
 
+## Day
+- Day 3 (11/11/2024):
+  - Created this Git Hub Pages which can be accessed at https://harishsun.github.io/
+  - Going through the Udemy Stephane Maarek Tutorial, things learnt
+     - IAM Introduction: Users, Groups, Policies
+     - IAM Users & Groups Hands On
+     - IAM Policies
+     - IAM Policies Hands On
+       
+## Resources:
+- Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stéphane Maarek - https://www.udemy.com/share/106WtA3@xAcho7WJx8jBkoErlcamUYzDNaaMhFAUcTpbZy2wYKc_0CEn4CEuQrk-a8fe7LM=/
+
 ## X Posts
  - Day 1: [Post](https://x.com/harishsun/status/1855304797106119167)
  - Day 2: [Post](https://x.com/harishsun/status/1855717353784299839)
