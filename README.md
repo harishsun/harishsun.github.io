@@ -21,6 +21,15 @@ Stay Tuned!
      - IAM Users & Groups Hands On
      - IAM Policies
      - IAM Policies Hands On
+      
+- Day 4 (12/11/2024):
+  - Continuing with Stephane Maarek Tutorial in Udemy, thing learnt and expiremented,
+    - IAM MFA Overview
+    -  IAM MFA Hands On
+    -  AWS Access Keys, CLI and SDK
+    -  AWS CLI Setup (Windows for now)
+    -  AWS CLI Hands On#
+    -  AWS CloudShell
        
 ## Resources:
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stéphane Maarek - https://www.udemy.com/share/106WtA3@xAcho7WJx8jBkoErlcamUYzDNaaMhFAUcTpbZy2wYKc_0CEn4CEuQrk-a8fe7LM=/
