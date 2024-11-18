@@ -53,6 +53,25 @@ Stay Tuned!
   
   Stay motivated, and let’s keep pushing forward!
 
+- Day 7 (18/11/2024): **Overcoming Life's Challenges and Diving Into EC2**
+  Day 7 marks the completion of my first week on this AWS learning path, and it hasn’t been without its challenges. Balancing professional responsibilities, personal commitments, and self-learning has been more difficult than I anticipated. However, I've realized that the real challenge isn't just external—it's internal. Fighting the urge to use life’s hurdles as   	reasons for slowing down is a battle of willpower. Acknowledging this has been key to pushing myself forward.
+
+  Despite the obstacles, I’m proud to say I managed to make some meaningful progress. This week, I wrapped up learning about Identity and Access Management (IAM)—a critical piece in ensuring secure and managed access to AWS resources. Understanding IAM fundamentals gave me a better grasp of how permissions, roles, and policies are structured within AWS.
+
+  From there, I embarked on my journey into EC2 Fundamentals and made strides with:
+  - EC2 Budget Setup: Learning how to set a budget and keep track of costs, ensuring I stay within financial limits while experimenting.
+  - EC2 Basics: Gaining foundational knowledge about Amazon EC2 and how it operates.
+  - Hands-On: Creating an EC2 Instance with User Data to Launch a Website: This was particularly exciting as I put theory into practice by configuring an instance that automatically deploys a basic website at launch.
+  - EC2 Instance Types: Understanding the range of instance types and how to choose the right one based on use cases.
+  - Security Groups and Classic Ports Overview: Delving into how security groups work as virtual firewalls to control traffic to instances.
+  - Hands-On: Configuring Security Groups: Applying knowledge through practical work, solidifying concepts by managing rules to allow or restrict network access.
+    
+  Each of these steps has not only deepened my technical knowledge but has also highlighted the importance of securing infrastructure while maintaining efficiency.
+
+  Reflecting on this week, I'm learning that progress is more than just the technical lessons—it’s about developing resilience, managing time, and staying committed despite life's curveballs. For anyone navigating their learning path, remember: it’s normal to face challenges, but it’s how we respond to them that defines our journey.
+
+  Looking forward to sharing more as I dive deeper into the intricacies of EC2 and beyond!
+
 
        
 ## Resources:
