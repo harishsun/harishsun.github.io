@@ -72,7 +72,23 @@ Stay Tuned!
 
   Looking forward to sharing more as I dive deeper into the intricacies of EC2 and beyond!
 
+- Day 8 (25/11/2024): *Back on Track with Tutorial Dojo*
+Hello, AWS enthusiasts!
+
+It's been a while since my last update, and I must admit I hit a bit of a rough patch. Over the past week, I’ve been battling the flu, juggling work responsibilities, and dealing with extensive travel. Unfortunately, this left little time or energy for consistent study sessions. But as they say, it’s not about how many times you fall—it’s about getting back up. So here I am, ready to dive back into my AWS learning journey with renewed focus!
+
+Switching Gears: Tutorial Dojo + Udemy
+While I’ve made good progress with Stephan Maarek’s Udemy tutorial, I recently decided to add Tutorial Dojo into my learning schedule. I found their explanations more engaging and easier to follow, especially for understanding complex topics. The variety in teaching styles is helping me grasp AWS concepts better.
+
+- What did i learn today?
+  - AWS Market Place
+  - Amazon EC2
+  - AWS Lammda
+  - AWS Batch
+  - AWS Elastic Bean Stalk
+  - AWS Outposts
 
        
 ## Resources:
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stéphane Maarek - https://www.udemy.com/share/106WtA3@xAcho7WJx8jBkoErlcamUYzDNaaMhFAUcTpbZy2wYKc_0CEn4CEuQrk-a8fe7LM=/
+- Tutorial Dojo - https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-exam-video-course/
