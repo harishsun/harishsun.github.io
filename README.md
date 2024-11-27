@@ -88,7 +88,34 @@ While I’ve made good progress with Stephan Maarek’s Udemy tutorial, I recent
   - AWS Elastic Bean Stalk
   - AWS Outposts
 
+- Day 9 (27/11/2024): A New Beginning Despite the Flu
+
+Today wasn’t the easiest. I’m still battling flu symptoms—fever, body aches, and general fatigue—but I’m determined to keep pushing forward on this AWS journey. Every small step counts, right?
+
+**Shifting Gears:** A Fresh Start with Adrian Cantrill’s Course
+After some extensive research, I decided to pivot my learning strategy. I found Tutorial Dojo to be a bit unengaging for my learning style. While it’s great for sample tests and quick references, it didn’t quite resonate with me for in-depth learning.
+
+Enter Adrian Cantrill's AWS Training (found at learn.cantrill.io). I started this course today, and wow—what a difference! Adrian’s explanations are practical, engaging, and incredibly detailed. His approach really clicked for me, and I can already tell it’s going to be a game-changer.
+
+Key Learnings Today: Animals4Life Project and AWS Accounts
+One of the highlights from today was diving into the Animals4Life project scenario. This practical use case helped me understand AWS accounts from a real-world perspective. It’s such a refreshing way to learn compared to just theory.
+
+Adjusting My Plan
+With this new direction, I’ve decided to:
+
+Stick with Adrian Cantrill’s course as my primary learning resource.
+Use Stephan Marek’s course and Tutorial Dojo for sample practice tests closer to the exam.
+It feels like starting over, but I’m confident this approach will lead to a stronger foundation.
+
+The New Goal
+End of February: Complete the course.
+Mid-March: Earn AWS certification.
+Even though I’m not fully recovered, I’m giving it my all. Here’s to staying consistent, no matter what challenges come up!
+
+Good night, and see you tomorrow with more updates.
+
        
 ## Resources:
+- Adrian Cantrill's AWS Training learn.cantrill.io
 - Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stéphane Maarek - https://www.udemy.com/share/106WtA3@xAcho7WJx8jBkoErlcamUYzDNaaMhFAUcTpbZy2wYKc_0CEn4CEuQrk-a8fe7LM=/
 - Tutorial Dojo - https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-exam-video-course/
