@@ -88,7 +88,7 @@ While I’ve made good progress with Stephan Maarek’s Udemy tutorial, I recent
   - AWS Elastic Bean Stalk
   - AWS Outposts
 
-- Day 9 (27/11/2024): A New Beginning Despite the Flu
+- **Day 9 (27/11/2024): A New Beginning Despite the Flu**
 
 Today wasn’t the easiest. I’m still battling flu symptoms—fever, body aches, and general fatigue—but I’m determined to keep pushing forward on this AWS journey. Every small step counts, right?
 
